@@ -1,0 +1,13 @@
+.buttons-container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 500px;
+}
+
+.button-one, .button-two, .button-three {
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  font-size: 50px;
+}
+
